@@ -3,9 +3,9 @@
                     int x= 1;
                     int main()
                     {
-                        if( x = 1)
+                        if( x == 1)
                           printf(" x equals 1" );
-                        otherwise
+                        else
                           printf(" x does not equal 1");
                         return 0;
                     }
