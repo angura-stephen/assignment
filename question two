@@ -1,0 +1,9 @@
+a)
+#inlude<stdio.h>
+float do_it(char a,b,c);
+
+b)
+#inlude<stdio.h>
+void print_a_number(int x)
+
+
