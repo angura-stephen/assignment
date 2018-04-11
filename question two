@@ -1,9 +1,16 @@
-a)
+____________________________________
 #inlude<stdio.h>
-float do_it(char a,b,c);
+float do_it(char a, char b, char c);
 
-b)
+_____________________________________
 #inlude<stdio.h>
 void print_a_number(int x)
+
+____________________________________
+the declaration of the 'print_msg()' function
+indicates its not supposed to have any arguments
+but the main function calls it with a string argument
+
+
 
 
