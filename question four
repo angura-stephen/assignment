@@ -1,0 +1,8 @@
+void addarrays(int n,int x[n], int y[n], int z[n])
+{
+    int i
+    for (i=0;i<n; i++)
+    {
+       z[i] = x[i]+y[i];
+    }
+}
